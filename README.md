@@ -61,6 +61,9 @@ Just follow the steps from top to bottom sequentially.
     - [GitHub Actions CI/CD](https://madewithml.com/courses/mlops/cicd/) - 2h
 18. [System Design](https://madewithml.com/courses/mlops/systems-design/)
 
+Some neet tutorials: [CalmCode](https://calmcode.io/)
+
+
 ## Personal Projects.
 
 - Coming soon.
